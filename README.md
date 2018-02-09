@@ -8,3 +8,4 @@ c https://www.healthline.com/health/skin-disorders
 e http://www.health.com/skin-conditions
 
 use openCV SURF to extract the features from the image.
+https://www.nhsinform.scot/illnesses-and-conditions/a-to-z   (for all the disease)
