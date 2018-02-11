@@ -9,3 +9,4 @@ e http://www.health.com/skin-conditions
 
 use openCV SURF to extract the features from the image.
 https://www.nhsinform.scot/illnesses-and-conditions/a-to-z   (for all the disease)
+https://medlineplus.gov/ency/encyclopedia_Y.htm
