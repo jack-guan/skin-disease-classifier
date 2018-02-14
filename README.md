@@ -1,6 +1,6 @@
 # skin-disease-classifier
 
-use case:  a classifier to identify the skin disease based on the text-based symptons --- to do: add image detection
+use case:  a classifier to identify the disease based on the text-based symptons --- to do: add image detection
 language/lib: Python:  scikit-learn/matplotlab/opencv
 a https://medicine.uiowa.edu/dermatology/education/clinical-skin-disease-images
 b http://www.orlandoskindoc.com/pitted%20keratolysis.htm
@@ -10,3 +10,10 @@ e http://www.health.com/skin-conditions
 use openCV SURF to extract the features from the image.
 https://www.nhsinform.scot/illnesses-and-conditions/a-to-z   (for all the disease)
 https://medlineplus.gov/ency/encyclopedia_Y.htm
+
+## Data Collection
+
+1. Scraping https://www.nhsinform.scot/illnesses-and-conditions 
+### A. Find the data embedding patern using Python shell:
+    scrapy shell
+    
